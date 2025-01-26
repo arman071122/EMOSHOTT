@@ -14,6 +14,9 @@ Emotional well-being is crucial for a healthy life, impacting physical health, m
 
 ## Methodology
 
+![Picture1](https://github.com/user-attachments/assets/0493d986-29c1-4710-a299-be95e8000946)
+
+
 ### Facial Analysis
 
 - Feature Extraction using Haar features.
@@ -29,6 +32,10 @@ Emotional well-being is crucial for a healthy life, impacting physical health, m
 
 - Tested various architectures including VGG16, TensorFlow Keras, PyTorch DDAMNET, and CNN.
 - Achieved validation accuracy of 86.36% after 100 epochs.
+![Picture2](https://github.com/user-attachments/assets/d050d735-045f-43f7-8215-d4e982f85ffb)
+![Picture3](https://github.com/user-attachments/assets/1de17751-fbe2-49a8-975c-9f8c00a6dc93)
+![Picture4](https://github.com/user-attachments/assets/f882a944-0a5c-4a9f-8d00-c0637ece3369)
+
 
 ## Achievements
 
