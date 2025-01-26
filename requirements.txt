@@ -1,0 +1,8 @@
+keras
+spacy
+openai-whisper
+moviepy
+natsort
+pandas
+nltk
+opencv-python
