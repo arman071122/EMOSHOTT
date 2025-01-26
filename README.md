@@ -1,4 +1,5 @@
-# Emotion Trigger Detection System
+# EMO-SHOTT : AI Emotional Trigger Detector
+
 
 Emotional well-being is crucial for a healthy life, impacting physical health, mental health, and relationships. Understanding and managing emotions can enhance overall well-being. Our project aims to bridge the gap in current systems by detecting emotional triggers through multimodal analysis of facial expressions and speech.
 
